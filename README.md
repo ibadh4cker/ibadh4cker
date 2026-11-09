@@ -1,13 +1,13 @@
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:450000,100:990000&height=210&section=header&text=IBAD%20UR%20RAHMAN&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=CYBERSECURITY%20%7C%20PURPLE%20TEAMING%20%7C%20DEVELOPMENT&descSize=13&descAlignY=60&animation=fadeIn)
+![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:450000,100:990000&height=210&section=header&text=IBAD%20UR%20RAHMAN&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=ASPIRING%20SECURITY%20ENGINEER%20%7C%20FULL-STACK%20WEB%20DEVELOPER&descSize=13&descAlignY=60&animation=fadeIn)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=850&height=55&lines=Aspiring+Security+Engineer;Cybersecurity+Enthusiast;Purple+Team+Learner;Full-Stack+Web+Developer" alt="Animated Introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=850&height=55&lines=Aspiring+Security+Engineer;Cybersecurity+Enthusiast;Learning+Purple+Teaming;Full-Stack+Web+Developer;Exploring+Endpoint+Security" alt="Animated Introduction" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SECURITY-FOCUSED-8B0000?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/PURPLE-TEAMING-8B0000?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/WEB-DEVELOPMENT-8B0000?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/ASPIRING-SECURITY%20ENGINEER-FFFFFF?style=for-the-badge&labelColor=8B0000" />
+  <img src="https://img.shields.io/badge/CYBERSECURITY-ENTHUSIAST-FFFFFF?style=for-the-badge&labelColor=8B0000" />
+  <img src="https://img.shields.io/badge/FULL%20STACK-WEB%20DEVELOPER-FFFFFF?style=for-the-badge&labelColor=8B0000" />
 </p>
 
 ---
@@ -16,24 +16,28 @@
   <img src="https://img.shields.io/badge/01-ABOUT%20ME-8B0000?style=for-the-badge&labelColor=000000" />
 </h2>
 
-I'm Ibad Ur Rahman, an aspiring security engineer, cybersecurity enthusiast, and full-stack web developer.
+I'm Ibad Ur Rahman, a **Full-Stack Web Developer**, Cybersecurity Enthusiast, and aspiring Security Engineer.
 
-I enjoy exploring Linux environments, learning security concepts, developing applications, and improving my technical skills.
+I enjoy developing web applications, exploring Linux environments, understanding cybersecurity concepts, and improving my technical skills.
 
-My current focus is **Purple Teaming** — understanding how offensive and defensive security approaches work together to strengthen digital security.
+I'm currently learning **Purple Teaming** and exploring **Endpoint Security**, Network Security, and Defensive Security concepts.
+
+My goal is to grow as a Security Engineer while continuing to build and improve my development skills.
 
 ---
 
 <h2 align="center">
-  <img src="https://img.shields.io/badge/02-CURRENT%20FOCUS-8B0000?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/02-CURRENT%20LEARNING-8B0000?style=for-the-badge&labelColor=000000" />
 </h2>
 
 - Purple Teaming
-- Offensive & Defensive Security
+- Endpoint Security
 - Network Security
+- Defensive Security
+- Security Monitoring & Analysis
+- Digital Forensics
+- OSINT
 - Web Application Security
-- Security Analysis
-- Full-Stack Web Development
 
 ---
 
@@ -42,10 +46,10 @@ My current focus is **Purple Teaming** — understanding how offensive and defen
 </h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/OSINT-000000?style=for-the-badge&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=1679A7" />
+  <img src="https://img.shields.io/badge/OSINT-000000?style=for-the-badge" />
 </p>
 
 ---
@@ -83,8 +87,9 @@ My current focus is **Purple Teaming** — understanding how offensive and defen
 
 - Cybersecurity & Information Security
 - Purple Team Methodologies
+- Endpoint Security
+- Network Defense
 - Digital Forensics & OSINT
-- Network Analysis
 - Web Application Security
 - Secure Web Development
 
@@ -114,5 +119,5 @@ My current focus is **Purple Teaming** — understanding how offensive and defen
 </p>
 
 <p align="center">
-  <sub>Building knowledge. Developing skills. Exploring security.</sub>
+  <sub>Building skills. Creating solutions. Exploring security.</sub>
 </p>
