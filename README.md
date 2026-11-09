@@ -1,25 +1,21 @@
 # 𝐈𝐁𝐀𝐃 𝐔𝐑 𝐑𝐀𝐇𝐌𝐀𝐍
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ASPIRING-SECURITY%20ENGINEER-39FF14?style=for-the-badge&labelColor=000000" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=23&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=850&height=60&lines=Aspiring+Security+Engineer;Cybersecurity+Enthusiast;Purple+Team+Learner;Full-Stack+Web+Developer" alt="Animated Introduction" />
 </p>
 
 <p align="center">
-  <strong>Cybersecurity Enthusiast | Purple Teaming | Full-Stack Web Developer</strong>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/FOCUS-PURPLE%20TEAMING-39FF14?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/DOMAIN-CYBERSECURITY-39FF14?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/PURPLE%20TEAMING-39FF14?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/CYBERSECURITY-39FF14?style=for-the-badge&labelColor=000000" />
 </p>
 
 ---
 
 ## 𝐀𝐁𝐎𝐔𝐓 𝐌𝐄
 
-I'm Ibad Ur Rahman, an aspiring security engineer and cybersecurity enthusiast interested in information security, network security, and full-stack web development.
+I'm Ibad Ur Rahman, an aspiring security engineer, cybersecurity enthusiast, and full-stack web developer.
 
-I enjoy exploring Linux environments, understanding security concepts, developing applications, and continuously improving my technical knowledge.
+I enjoy exploring Linux environments, understanding security concepts, developing applications, and improving my technical skills.
 
 My current focus is **Purple Teaming**, learning how offensive and defensive security approaches work together to strengthen digital security.
 
@@ -35,7 +31,7 @@ My current focus is **Purple Teaming**, learning how offensive and defensive sec
 ## 𝐒𝐄𝐂𝐔𝐑𝐈𝐓𝐘 𝐓𝐎𝐎𝐋𝐒
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Nmap-39FF14?style=for-the-badge&logoColor=black&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Nmap-39FF14?style=for-the-badge&labelColor=000000" />
   <img src="https://img.shields.io/badge/Metasploit-39FF14?style=for-the-badge&labelColor=000000" />
   <img src="https://img.shields.io/badge/Wireshark-39FF14?style=for-the-badge&logo=wireshark&logoColor=39FF14&labelColor=000000" />
   <img src="https://img.shields.io/badge/OSINT-39FF14?style=for-the-badge&labelColor=000000" />
