@@ -1,25 +1,32 @@
-# 𝐈𝐁𝐀𝐃 𝐔𝐑 𝐑𝐀𝐇𝐌𝐀𝐍
+![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:450000,100:990000&height=210&section=header&text=IBAD%20UR%20RAHMAN&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=CYBERSECURITY%20%7C%20PURPLE%20TEAMING%20%7C%20DEVELOPMENT&descSize=13&descAlignY=60&animation=fadeIn)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=23&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=850&height=60&lines=Aspiring+Security+Engineer;Cybersecurity+Enthusiast;Purple+Team+Learner;Full-Stack+Web+Developer" alt="Animated Introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=850&height=55&lines=Aspiring+Security+Engineer;Cybersecurity+Enthusiast;Purple+Team+Learner;Full-Stack+Web+Developer" alt="Animated Introduction" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PURPLE%20TEAMING-FFFFFF?style=for-the-badge&labelColor=8B0000" />
-  <img src="https://img.shields.io/badge/CYBERSECURITY-FFFFFF?style=for-the-badge&labelColor=8B0000" />
+  <img src="https://img.shields.io/badge/SECURITY-FOCUSED-8B0000?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/PURPLE-TEAMING-8B0000?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/WEB-DEVELOPMENT-8B0000?style=for-the-badge&labelColor=000000" />
 </p>
 
 ---
 
-## 𝐀𝐁𝐎𝐔𝐓 𝐌𝐄
+<h2 align="center">
+  <img src="https://img.shields.io/badge/01-ABOUT%20ME-8B0000?style=for-the-badge&labelColor=000000" />
+</h2>
 
 I'm Ibad Ur Rahman, an aspiring security engineer, cybersecurity enthusiast, and full-stack web developer.
 
-I enjoy exploring Linux environments, understanding security concepts, developing applications, and continuously improving my technical skills.
+I enjoy exploring Linux environments, learning security concepts, developing applications, and improving my technical skills.
 
-My current focus is **Purple Teaming**, learning how offensive and defensive security approaches work together to strengthen digital security.
+My current focus is **Purple Teaming** — understanding how offensive and defensive security approaches work together to strengthen digital security.
 
-## 𝐂𝐔𝐑𝐑𝐄𝐍𝐓 𝐅𝐎𝐂𝐔𝐒
+---
+
+<h2 align="center">
+  <img src="https://img.shields.io/badge/02-CURRENT%20FOCUS-8B0000?style=for-the-badge&labelColor=000000" />
+</h2>
 
 - Purple Teaming
 - Offensive & Defensive Security
@@ -28,35 +35,51 @@ My current focus is **Purple Teaming**, learning how offensive and defensive sec
 - Security Analysis
 - Full-Stack Web Development
 
-## 𝐒𝐄𝐂𝐔𝐑𝐈𝐓𝐘 𝐓𝐎𝐎𝐋𝐒
+---
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Nmap-FFFFFF?style=for-the-badge&labelColor=8B0000" />
-  <img src="https://img.shields.io/badge/Metasploit-FFFFFF?style=for-the-badge&labelColor=8B0000" />
-  <img src="https://img.shields.io/badge/Wireshark-FFFFFF?style=for-the-badge&labelColor=8B0000" />
-  <img src="https://img.shields.io/badge/OSINT-FFFFFF?style=for-the-badge&labelColor=8B0000" />
+<h2 align="center">
+  <img src="https://img.shields.io/badge/03-SECURITY%20TOOLKIT-8B0000?style=for-the-badge&labelColor=000000" />
+</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/OSINT-000000?style=for-the-badge&logoColor=FFFFFF" />
 </p>
 
-## 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐌𝐄𝐍𝐓 𝐓𝐄𝐂𝐇𝐍𝐎𝐋𝐎𝐆𝐈𝐄𝐒
+---
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&labelColor=8B0000" />
-  <img src="https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&labelColor=8B0000" />
-  <img src="https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&labelColor=8B0000" />
-  <img src="https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&labelColor=8B0000" />
-  <img src="https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&labelColor=8B0000" />
-  <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&labelColor=8B0000" />
+<h2 align="center">
+  <img src="https://img.shields.io/badge/04-DEVELOPMENT%20STACK-8B0000?style=for-the-badge&labelColor=000000" />
+</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 </p>
 
-## 𝐋𝐈𝐍𝐔𝐗 𝐄𝐍𝐕𝐈𝐑𝐎𝐍𝐌𝐄𝐍𝐓𝐒
+---
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Kali_Linux-FFFFFF?style=for-the-badge&labelColor=8B0000" />
-  <img src="https://img.shields.io/badge/BlackArch-FFFFFF?style=for-the-badge&labelColor=8B0000" />
-  <img src="https://img.shields.io/badge/Garuda_Linux-FFFFFF?style=for-the-badge&labelColor=8B0000" />
+<h2 align="center">
+  <img src="https://img.shields.io/badge/05-LINUX%20ENVIRONMENTS-8B0000?style=for-the-badge&labelColor=000000" />
+</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/KALI%20LINUX-000000?style=for-the-badge&logo=kalilinux&logoColor=557C94" />
+  <img src="https://img.shields.io/badge/BLACKARCH-000000?style=for-the-badge&logo=archlinux&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/GARUDA%20LINUX-000000?style=for-the-badge&logo=linux&logoColor=FFFFFF" />
 </p>
 
-## 𝐀𝐑𝐄𝐀𝐒 𝐎𝐅 𝐈𝐍𝐓𝐄𝐑𝐄𝐒𝐓
+---
+
+<h2 align="center">
+  <img src="https://img.shields.io/badge/06-AREAS%20OF%20INTEREST-8B0000?style=for-the-badge&labelColor=000000" />
+</h2>
 
 - Cybersecurity & Information Security
 - Purple Team Methodologies
@@ -65,21 +88,29 @@ My current focus is **Purple Teaming**, learning how offensive and defensive sec
 - Web Application Security
 - Secure Web Development
 
-## 𝐂𝐎𝐍𝐍𝐄𝐂𝐓 𝐖𝐈𝐓𝐇 𝐌𝐄
+---
 
-<p align="left">
+<h2 align="center">
+  <img src="https://img.shields.io/badge/07-CONNECT%20WITH%20ME-8B0000?style=for-the-badge&labelColor=000000" />
+</h2>
+
+<p align="center">
   <a href="https://github.com/ibadh4cker">
-    <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&labelColor=8B0000" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" />
   </a>
   <a href="https://instagram.com/ibad_h4cker">
-    <img src="https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&labelColor=8B0000" />
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <strong>𝐋𝐄𝐀𝐑𝐍 • 𝐁𝐔𝐈𝐋𝐃 • 𝐀𝐍𝐀𝐋𝐘𝐙𝐄 • 𝐒𝐄𝐂𝐔𝐑𝐄</strong>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:700000&height=3&section=footer" />
+</p>
+
+<p align="center">
+  <strong>LEARN • BUILD • ANALYZE • SECURE</strong>
 </p>
 
 <p align="center">
